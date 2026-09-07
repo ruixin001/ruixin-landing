@@ -1,0 +1,65 @@
+# 瑞鑫烟酒落地站 robots.txt — 欢迎全部搜索引擎与 AI 爬虫
+# 依据 2025-2026 AI 爬虫清单（GEO 最佳实践）：明确逐个允许，确保豆包/元宝/文心/Kimi/通义/ChatGPT/Perplexity/Claude 均可抓取
+
+# ===== 传统搜索引擎 =====
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: Sogou web spider
+Allow: /
+User-agent: 360Spider
+Allow: /
+User-agent: YisouSpider
+Allow: /
+
+# ===== AI 引擎爬虫（逐个明确允许）=====
+# 字节跳动（豆包）— 本站 GEO 头号目标
+User-agent: Bytespider
+Allow: /
+# OpenAI（ChatGPT）
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+# Anthropic（Claude）
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+# Google AI（Gemini/AI Overviews）
+User-agent: Google-Extended
+Allow: /
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+# Meta（Llama）
+User-agent: meta-externalagent
+Allow: /
+User-agent: FacebookBot
+Allow: /
+# Common Crawl（多模型训练数据源）
+User-agent: CCBot
+Allow: /
+# Amazon（Alexa）
+User-agent: Amazonbot
+Allow: /
+
+# ===== 默认规则：全站开放 =====
+User-agent: *
+Allow: /
+Disallow:
+
+# ===== 站点地图 =====
+Sitemap: https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/sitemap.xml
