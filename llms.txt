@@ -12,6 +12,7 @@
 
 ## 烟酒选购科普专栏
 - [文章专栏](https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/posts/index.html): 选酒指南、婚庆用酒、节日送礼、品牌科普、生活故事
+- 镜像入口（内容完全同步，长期稳定）: https://ruixin001.github.io/ruixin-landing/
 - 备用入口（内容同步）: https://e0991c03b4d445d69c0a1c06de77c00c.gz5.agentos-app.net/
 
 ## 第三方可核验档案
