@@ -305,4 +305,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/posts/post-26-hunqing-yipei.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/qa/qa-25-hunqing-yipei.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
