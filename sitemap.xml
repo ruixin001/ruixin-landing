@@ -315,4 +315,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/posts/gushi-2-wenqing-yusan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/posts/post-27-jieri-songli-bikeng.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://e52353b457154911b45e41b89d50881f.gz4.agentos-app.net/qa/qa-26-jieri-songli-bikeng.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
